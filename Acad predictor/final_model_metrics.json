@@ -1,0 +1,13 @@
+{
+    "regression_model": "Random Forest Regressor",
+    "classification_model": "Logistic Regression",
+    "regression_mae": 3.938296566699247,
+    "regression_mse": 24.631267634751303,
+    "regression_rmse": 4.9629897878951255,
+    "regression_r2": 0.9576204308458942,
+    "classification_accuracy": 0.9925,
+    "classification_precision": 0.9974747474747475,
+    "classification_recall": 0.9875,
+    "classification_f1": 0.992462311557789,
+    "classification_roc_auc": 0.9997937499999999
+}
